@@ -1,5 +1,7 @@
-### <div align="center">Olá!</div>  
-<br/>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
 ### <div align="center">Eu sou Christoffer Otterbak, um desenvolvedor back-end e inicante no front-end 👨‍💻</div>  
   
@@ -10,13 +12,13 @@
 -  🖥️ Minha stak principal é o back-end, com Laravel.  
   
 
-- ⚡ Mas como você [vue](https://github.com/TioBobDev/cursovue), eu estou trabalhando para isso mudar! 😂  
+- ⚡ Mas você [vue](https://github.com/TioBobDev/cursovue), que eu estou trabalhando para isso mudar? 😂  
   
 
 <br/>  
 
 
-## Meu Conjunto de Habilidades  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -51,10 +53,13 @@
 </td><td valign="top" width="33%">
 
 
+
+</td></tr></table>  
+
 <br/>  
 
 
-## Me siga nas redes  
+## Connect with me  
 <div align="center">
 <a href="https://github.com/TioBobDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,13 +76,30 @@
 <br/>  
 
 
-## Estatísticas do Github  
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioBobDev&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
+## Recent Blog Posts  
   
 
+<br/>  
+
   
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
   
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
