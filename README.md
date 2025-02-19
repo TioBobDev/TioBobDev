@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📆 Desde 2021 gerando bug's | <br>💻 Apaixonado pela tecnologia | <br>⛪ Católico Apostólico Romano <br><br>Minha jornada na tecnologia começou após um contato com um projeto para desenvolver um sistema educacional, onde atuei como Analista. Sou formado em Ciências Contábeis, mas logo migrei para a área de tecnologia, após me apaixonar por ela através deste projeto. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web onde atuo com PHP e Laravel, e expandir para o desenvolvimento frontend.<br><br>Embora o desenvolvimento web seja o meu foco, atualmente estudo análise de dados, e estou constantemente em busca de aprendizado e evolução na área de tecnologia.<br><br>💡 Vamos construir algo incrível juntos!</p>
+<p align="left">📆Desde 2021 gerando bug's | <br>💻Apaixonado pela tecnologia | <br>⛪ Católico Apostólico Romano <br><br>Minha jornada na tecnologia começou após um contato com um projeto para desenvolver um sistema educacional, onde atuei como Analista. Sou formado em Ciências Contábeis, mas logo migrei para a área de tecnologia, após me apaixonar por ela através deste projeto. Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web onde atuo com PHP e Laravel, e expandir para o desenvolvimento frontend.<br><br>Embora o desenvolvimento web seja o meu foco, atualmente estudo análise de dados, e estou constantemente em busca de aprendizado e evolução na área de tecnologia.<br><br>💡 Vamos construir algo incrível juntos!</p>
 
 ###
 
