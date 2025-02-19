@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📆Desde 2021 gerando bug's | <br>💻Apaixonado pela tecnologia | <br>⛪ Católico Apostólico Romano</p>
+<p align="left">📆Desde 2021 gerando bug's | 💻Apaixonado pela tecnologia | ⛪ Católico Apostólico Romano</p>
 
 ###
 
