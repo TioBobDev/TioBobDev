@@ -12,13 +12,13 @@
 -  🖥️ Minha stak principal é o back-end, com Laravel.  
   
 
-- ⚡ Mas você [vue](https://github.com/TioBobDev/cursovue), que eu estou trabalhando para isso mudar? 😂  
+- ⚡ Mas como você [vue](https://github.com/TioBobDev/cursovue), eu estou trabalhando para isso mudar! 😂  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Minhas Habilidades 
 <table><tr><td valign="top" width="33%">
 
 
@@ -54,7 +54,7 @@
 
 
 
-</td></tr></table>  
+</table>  
 
 <br/>  
 
