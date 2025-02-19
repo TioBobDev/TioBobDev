@@ -58,3 +58,11 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI4b3JmZ2V6Znh3Njk4MHk2ZjdteG5obDVieGdmNHlmcXkxMDZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif"  />
 
 ###
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
