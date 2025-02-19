@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Eu sou Christoffer Otterbak, um desenvolvedor back-end e inicante no front-end 👨‍💻</div>  
   
